@@ -5,7 +5,6 @@
 This project is a **Restaurant Recommendation System** that helps users find restaurants in Lahore based on their location, customer reviews, and ratings. The system scrapes restaurant data from Google Maps, analyzes user reviews for sentiment, and provides a visualization dashboard using **Tableau**.
 
 ## 🚀 Features
-
 - **Web Scraping with Selenium:** Extracts restaurant data (Location, Rating, Reviews) from Google Maps.
 - **Random Store ID Assignment:** Each restaurant is assigned a unique Store ID.
 - **Location-Based Filtering:** Detects user location and finds the closest town.
